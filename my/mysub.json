@@ -367,6 +367,46 @@
       "name": "🔞-奥斯卡-",
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
+    },
+    "wolongzycc": {
+      "name": "TV-卧龙资源CC",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod"
+    },
+    "tvcc": {
+      "name": "TV-无尽资源CC",
+      "api": "https://api.wujinapi.cc/api.php/provide/vod"
+    },
+    "tvnet": {
+      "name": "TV-无尽资源NET",
+      "api": "https://api.wujinapi.net/api.php/provide/vod"
+    },
+    "tv3": {
+      "name": "TV-红牛资源3",
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod"
+    },
+    "niuniuzy": {
+      "name": "TV-牛牛点播",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+    },
+    "tyyszy": {
+      "name": "TV-天涯资源",
+      "api": "https://tyyszy.com/api.php/provide/vod/"
+    },
+    "jyzyapi2": {
+      "name": "TV-金鹰资源",
+      "api": "https://jyzyapi.com/api.php/provide/vod/"
+    },
+    "tv360": {
+      "name": "TV-360资源",
+      "api": "https://360zy.com/api.php/provide/vod/"
+    },
+    "dbzy": {
+      "name": "TV-豆瓣资源直连",
+      "api": "https://dbzy.tv/api.php/provide/vod/"
+    },
+    "ffzy5": {
+      "name": "TV-非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod/"
     }
   }
 }
